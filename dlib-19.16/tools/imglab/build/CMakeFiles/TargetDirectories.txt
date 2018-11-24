@@ -1,0 +1,7 @@
+C:/Users/USUARIO/Desktop/Faculdade/Projetos/HandsDeteccion/dlib-19.16/tools/imglab/build/CMakeFiles/imglab.dir
+C:/Users/USUARIO/Desktop/Faculdade/Projetos/HandsDeteccion/dlib-19.16/tools/imglab/build/CMakeFiles/INSTALL.dir
+C:/Users/USUARIO/Desktop/Faculdade/Projetos/HandsDeteccion/dlib-19.16/tools/imglab/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/USUARIO/Desktop/Faculdade/Projetos/HandsDeteccion/dlib-19.16/tools/imglab/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/USUARIO/Desktop/Faculdade/Projetos/HandsDeteccion/dlib-19.16/tools/imglab/build/dlib_build/CMakeFiles/dlib.dir
+C:/Users/USUARIO/Desktop/Faculdade/Projetos/HandsDeteccion/dlib-19.16/tools/imglab/build/dlib_build/CMakeFiles/INSTALL.dir
+C:/Users/USUARIO/Desktop/Faculdade/Projetos/HandsDeteccion/dlib-19.16/tools/imglab/build/dlib_build/CMakeFiles/ALL_BUILD.dir

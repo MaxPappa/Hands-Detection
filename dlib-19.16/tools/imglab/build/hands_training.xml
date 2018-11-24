@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='images_training\S1-P1-F-11-1.jpg'>
+    <box top='130' left='110' width='256' height='285'/>
+  </image>
+  <image file='images_training\S1-P1-F-11-2.jpg'>
+    <box top='182' left='90' width='273' height='280'/>
+  </image>
+  <image file='images_training\S1-P1-F-11-3.jpg'>
+    <box top='216' left='55' width='282' height='266'/>
+  </image>
+  <image file='images_training\S1-P1-F-11-4.jpg'>
+    <box top='169' left='107' width='273' height='279'/>
+  </image>
+  <image file='images_training\S1-P1-F-11-5.jpg'>
+    <box top='115' left='76' width='310' height='281'/>
+  </image>
+  <image file='images_training\S1-P2-F-46-1.jpg'>
+    <box top='147' left='134' width='312' height='334'/>
+  </image>
+  <image file='images_training\S1-P2-F-46-2.jpg'>
+    <box top='150' left='107' width='356' height='326'/>
+  </image>
+  <image file='images_training\S1-P2-F-46-3.jpg'>
+    <box top='138' left='109' width='340' height='337'/>
+  </image>
+  <image file='images_training\S1-P2-F-46-4.jpg'>
+    <box top='135' left='121' width='335' height='336'/>
+  </image>
+  <image file='images_training\S1-P2-F-46-5.jpg'>
+    <box top='134' left='117' width='333' height='335'/>
+  </image>
+  <image file='images_training\S1-P3-F-42-1.jpg'>
+    <box top='140' left='159' width='300' height='321'/>
+  </image>
+  <image file='images_training\S1-P3-F-42-2.jpg'>
+    <box top='147' left='158' width='316' height='326'/>
+  </image>
+  <image file='images_training\S1-P3-F-42-3.jpg'>
+    <box top='153' left='129' width='328' height='323'/>
+  </image>
+  <image file='images_training\S1-P3-F-42-4.jpg'>
+    <box top='116' left='123' width='324' height='359'/>
+  </image>
+  <image file='images_training\S1-P3-F-42-5.jpg'>
+    <box top='126' left='113' width='340' height='350'/>
+  </image>
+  <image file='images_training\S1-P4-F-16-1.jpg'>
+    <box top='138' left='137' width='260' height='313'/>
+  </image>
+  <image file='images_training\S1-P4-F-16-2.jpg'>
+    <box top='136' left='103' width='300' height='314'/>
+  </image>
+  <image file='images_training\S1-P4-F-16-3.jpg'>
+    <box top='151' left='128' width='238' height='288'/>
+  </image>
+  <image file='images_training\S1-P4-F-16-4.jpg'>
+    <box top='165' left='116' width='286' height='294'/>
+  </image>
+  <image file='images_training\S1-P4-F-16-5.jpg'>
+    <box top='171' left='114' width='247' height='276'/>
+  </image>
+  <image file='images_training\S1-P5-F-15-1.jpg'>
+    <box top='135' left='56' width='359' height='320'/>
+  </image>
+  <image file='images_training\S1-P5-F-15-2.jpg'>
+    <box top='121' left='40' width='366' height='330'/>
+  </image>
+  <image file='images_training\S1-P5-F-15-3.jpg'>
+    <box top='108' left='56' width='353' height='347'/>
+  </image>
+  <image file='images_training\S1-P5-F-15-4.jpg'>
+    <box top='119' left='64' width='350' height='339'/>
+  </image>
+  <image file='images_training\S1-P5-F-15-5.jpg'>
+    <box top='99' left='63' width='345' height='355'/>
+  </image>
+  <image file='images_training\S1-P6-M-40-1.jpg'>
+    <box top='66' left='10' width='406' height='363'/>
+  </image>
+  <image file='images_training\S1-P6-M-40-2.jpg'>
+    <box top='70' left='8' width='390' height='376'/>
+  </image>
+  <image file='images_training\S1-P6-M-40-3.jpg'>
+    <box top='74' left='22' width='387' height='376'/>
+  </image>
+  <image file='images_training\S1-P6-M-40-4.jpg'>
+    <box top='27' left='204' width='391' height='410'/>
+  </image>
+  <image file='images_training\S1-P6-M-40-5.jpg'>
+    <box top='47' left='176' width='381' height='413'/>
+  </image>
+  <image file='images_training\S1-P7-F-39-1.jpg'>
+    <box top='41' left='192' width='285' height='422'/>
+  </image>
+  <image file='images_training\S1-P7-F-39-2.jpg'>
+    <box top='54' left='196' width='293' height='401'/>
+  </image>
+  <image file='images_training\S1-P7-F-39-3.jpg'>
+    <box top='53' left='187' width='290' height='399'/>
+  </image>
+  <image file='images_training\S1-P7-F-39-4.jpg'>
+    <box top='65' left='173' width='287' height='394'/>
+  </image>
+  <image file='images_training\S1-P7-F-39-5.jpg'>
+    <box top='48' left='186' width='270' height='401'/>
+  </image>
+</images>
+</dataset>

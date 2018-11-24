@@ -1,0 +1,80 @@
+Determining if the function sgemm_ exists failed with the following output:
+Change Dir: C:/Users/USUARIO/Desktop/Faculdade/Projetos/HandsDeteccion/dlib-19.16/tools/imglab/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_a991e.vcxproj" "/p:Configuration=Debug" "/p:Platform=Win32" "/p:VisualStudioVersion=15.0"
+Microsoft(R) Build Engine versão 15.8.169+g1ccb72aefa para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+Compilação de 01/11/2018 18:01:57 iniciada.
+Projeto "C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\cmTC_a991e.vcxproj" no nó 1 (destinos padrão).
+PrepareForBuild:
+  Criando o diretório "cmTC_a991e.dir\Debug\".
+  Criando o diretório "C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\Debug\".
+  Criando o diretório "cmTC_a991e.dir\Debug\cmTC_a991e.tlog\".
+InitializeBuildStatus:
+  Criando "cmTC_a991e.dir\Debug\cmTC_a991e.tlog\unsuccessfulbuild" porque "AlwaysCreate" foi especificado.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=sgemm_ /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a991e.dir\Debug\\" /Fd"cmTC_a991e.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.13\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Versão 19.15.26730 para x86
+  Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=sgemm_ /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a991e.dir\Debug\\" /Fd"cmTC_a991e.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.13\Modules\CheckFunctionExists.c"
+  CheckFunctionExists.c
+  
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\Debug\cmTC_a991e.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/USUARIO/Desktop/Faculdade/Projetos/HandsDeteccion/dlib-19.16/tools/imglab/build/CMakeFiles/CMakeTmp/Debug/cmTC_a991e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/USUARIO/Desktop/Faculdade/Projetos/HandsDeteccion/dlib-19.16/tools/imglab/build/CMakeFiles/CMakeTmp/Debug/cmTC_a991e.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_a991e.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: sÝmbolo externo indefinido _sgemm_ referenciado na funþÒo _main [C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\cmTC_a991e.vcxproj]
+C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\Debug\cmTC_a991e.exe : fatal error LNK1120: 1 externo nÒo resolvidos [C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\cmTC_a991e.vcxproj]
+Projeto de compilação pronto "C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\cmTC_a991e.vcxproj" (destinos padrão) -- FALHA.
+
+FALHA da compilação.
+
+"C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\cmTC_a991e.vcxproj" (destino padrão) (1) ->
+(Link destino) -> 
+  CheckFunctionExists.obj : error LNK2019: sÝmbolo externo indefinido _sgemm_ referenciado na funþÒo _main [C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\cmTC_a991e.vcxproj]
+  C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\Debug\cmTC_a991e.exe : fatal error LNK1120: 1 externo nÒo resolvidos [C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\cmTC_a991e.vcxproj]
+
+    0 Aviso(s)
+    2 Erro(s)
+
+Tempo Decorrido 00:00:00.98
+
+
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/USUARIO/Desktop/Faculdade/Projetos/HandsDeteccion/dlib-19.16/tools/imglab/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_2ce88.vcxproj" "/p:Configuration=Debug" "/p:Platform=Win32" "/p:VisualStudioVersion=15.0"
+Microsoft(R) Build Engine versão 15.8.169+g1ccb72aefa para .NET Framework 
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+Compilação de 01/11/2018 18:01:58 iniciada.
+Projeto "C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\cmTC_2ce88.vcxproj" no nó 1 (destinos padrão).
+PrepareForBuild:
+  Criando o diretório "cmTC_2ce88.dir\Debug\".
+  Criando o diretório "C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\Debug\".
+  Criando o diretório "cmTC_2ce88.dir\Debug\cmTC_2ce88.tlog\".
+InitializeBuildStatus:
+  Criando "cmTC_2ce88.dir\Debug\cmTC_2ce88.tlog\unsuccessfulbuild" porque "AlwaysCreate" foi especificado.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2ce88.dir\Debug\\" /Fd"cmTC_2ce88.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Versão 19.15.26730 para x86
+  Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2ce88.dir\Debug\\" /Fd"cmTC_2ce88.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  CheckIncludeFile.c
+  
+C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Não é possível abrir arquivo incluir: 'pthread.h': No such file or directory [C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\cmTC_2ce88.vcxproj]
+Projeto de compilação pronto "C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\cmTC_2ce88.vcxproj" (destinos padrão) -- FALHA.
+
+FALHA da compilação.
+
+"C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\cmTC_2ce88.vcxproj" (destino padrão) (1) ->
+(ClCompile destino) -> 
+  C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Não é possível abrir arquivo incluir: 'pthread.h': No such file or directory [C:\Users\USUARIO\Desktop\Faculdade\Projetos\HandsDeteccion\dlib-19.16\tools\imglab\build\CMakeFiles\CMakeTmp\cmTC_2ce88.vcxproj]
+
+    0 Aviso(s)
+    1 Erro(s)
+
+Tempo Decorrido 00:00:00.55
+
+
